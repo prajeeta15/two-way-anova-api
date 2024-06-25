@@ -1,0 +1,6 @@
+@TwoWayAnovaApi_HostAddress = http://localhost:5231
+
+GET {{TwoWayAnovaApi_HostAddress}}/TwoWayAnova/
+Accept: application/json
+
+###
